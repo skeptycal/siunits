@@ -38,14 +38,13 @@
 ├── go.doc
 ├── go.mod
 ├── go.test.sh
-├── gorepotemplate.go
 ├── idea.md
-├── main.go
-├── main_test.go
 ├── make_tree_md.sh
+├── siunits.go
+├── siunits_test.go
 └── tree.md
 
-7 directories, 31 files
+7 directories, 30 files
 ```
 
 [get_tree]: (http://mama.indstate.edu/users/ice/tree/)
