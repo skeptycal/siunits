@@ -2,5 +2,5 @@
 // https://github.com/skeptycal
 // MIT License
 
-// Package gorepotemplate contains utilities for macOS.
-package gorepotemplate
+// Package siunits contains utilities for macOS.
+package siunits

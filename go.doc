@@ -1,5 +1,9 @@
-package gorepotemplate // import "github.com/skeptycal/gorepotemplate"
+package siunits // import "github.com/skeptycal/siunits"
 
-Package gorepotemplate contains utilities for macOS.
+Package siunits contains utilities for macOS.
 
+const SISEP = ":"
+var SI = newSI() ...
 func Example()
+type Any interface{}
+type SIPrefix interface{ ... }
