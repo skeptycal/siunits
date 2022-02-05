@@ -25,7 +25,7 @@
 ├── SECURITY.md
 ├── cmd
 │   └── example
-│       └── gorepotemplate
+│       └── siunits
 │           └── main.go
 ├── contributing.md
 ├── coverage.txt
