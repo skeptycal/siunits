@@ -1,7 +1,11 @@
 package siunits // import "github.com/skeptycal/siunits"
 
-const SISEP = ":"
+const MaxInt = math.MaxInt
+var MaxIntLen = intLenString(MaxInt) ...
 var SI = newSI() ...
 func Example()
+func IntLen(n int) int
+func IntLenTests() []lenTestStruct
 type Any interface{}
+type FSPrefix interface{ ... }
 type SIPrefix interface{ ... }
