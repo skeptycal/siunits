@@ -179,14 +179,14 @@ func intLenSimple(n int) int {
 	}
 
 	// 11 to 12
-	if n < 1000000000000 {
-		if n < 100000000000 {
-			return 11
-		} else {
-			return 12
-		}
-	}
-	return -1
+	// if n < 1000000000000 {
+	// 	if n < 100000000000 {
+	// 		return 11
+	// 	} else {
+	// 		return 12
+	// 	}
+	// }
+	// return -1
 }
 
 var (
